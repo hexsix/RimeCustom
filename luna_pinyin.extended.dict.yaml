@@ -1,0 +1,11 @@
+---
+name: luna_pinyin.extended
+version: "2021.1.13"
+sort: by_wight
+use_preset_vocabulary: true
+import_tables:
+    - luna_pinyin
+    - zhwiki
+    - moegirl
+...
+Sc@MX6?_?X	ming ri fang zhou
